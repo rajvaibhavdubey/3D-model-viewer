@@ -1,0 +1,5 @@
+newmtl default
+Ka 0 0 1
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+map_Kd pomegranate_diffuse.jpg

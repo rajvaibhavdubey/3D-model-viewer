@@ -1,0 +1,22 @@
+{
+  "name": "3D-model-Viewer",
+  "version": "0.2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Raj Vaibhav Dubey",
+  "license": "MIT"
+}
